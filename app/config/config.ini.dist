@@ -1,9 +1,9 @@
 [database]
 adapter  = Mysql
 host     = localhost
-username = root
-password = secret
-dbname   = test
+username = xxxxxxxxx
+password = xxxxxxxxx
+dbname   = casting
 
 [application]
 controllersDir = ../app/controllers/
