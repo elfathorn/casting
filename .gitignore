@@ -3,3 +3,4 @@
 /app/config/config.ini
 /vendor/
 composer.lock
+/bower_components/
